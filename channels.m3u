@@ -1,0 +1,211 @@
+#EXTM3U
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/8ibgqkog_k_cine.png" tvg-id="4b0b161f43dc5f59a31ffe6618b67428",K+ Cine
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/521538379?ticket=0CC2FD3E1AFFADB40E5E5BD96681CEBB5186EDC9&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/avatar/2022/03/03/02qir9yg_livetv-ngang.webp" tvg-id="233d0f65ba5dd534c3c160ff40ec76ff",K+ Kids
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1695497507?ticket=C703E0A1F1E906781D3F06D2534E38408B8506BA&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/avatar/2022/04/08/z4cfm1u3_ngang_klife.png" tvg-id="78b99108e493651d4b88949e47511b12",K+ Life 
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/143767928?ticket=F7F2C8A9E30D986FD4D6FA3ACAFF2AB450F258F4&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/avatar/2021/10/28/4q516e9r_k-sport1.png" tvg-id="a2b0c13403e63424f8781f982505f604",K+ Sport1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/885108898?ticket=BE0435D9E65A6985A17EDCCA73708EFE46E7B9D5&profile=pass
+#EXTINF:-1 logo="https://static2.vieon.vn/vieplay-image/avatar/2021/09/30/d0ed7vu0_sport2.png" tvg-id="a17f199986279b2ffcabbc2de0fffd19",K+ Sport2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/421101473?ticket=378B273F0091103A756CE576178BC212E87F7F58&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animal-planet_156335404347.jpg" tvg-id="d525c82027f91b4acd78999def4ab10b",Animal Planet
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/549987797?ticket=B67C0EE96A7FC33D7AB6ADAD1C19894233ECF912&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_animax_165647567355.png" tvg-id="0a06f4275d5c7b70b5517bc7c226f11a",Animax
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/670303754?ticket=6D76360EA6AA805D43A17C4A1B2ADFAAA19691D4&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/lvYjN2D.jpg" tvg-id="a80b93c4292bc0362e238225ce6c43c1",ANTV
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1150487464?ticket=DF6F3B54D5A0D576E6414473F642FFF4D0348601&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_asian-food-channel_158279877356.png" tvg-id="586ba73893ceee1584ade06193b0c8a9",Asian Food Network (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/950496088?ticket=C3A1D42908AC94B7C1E2D9B08A4F8CA68A2C3CEC&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_axn_165647568626.png" tvg-id="602f09029816982a71cfaf9265e82d76",AXN
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/34156384?ticket=A070FC44C1487A559D175C528267CB4CDF69D003&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_bac-lieu_156455519874.jpg" tvg-id="81d188b98ed4acca00944c30c361ddad",BacLieuTV (BTV)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/965267841?ticket=999E3F8A2F52722E199410CCB74FF39133C45BC4&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/bbcearth.jpg" tvg-id="a3106c3c0e1314b8c908c2d6c963b905",BBC Earth
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1013715107?ticket=FD7D6399010A5001BD90C2900A281D0E36552E21&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/binhduong1.jpg" tvg-id="8ceb71fd5da9d02e692a4e3d33021651",Bình Dương 1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2104617868?ticket=E6FA8D4B4E2B0AD2981803E347AC21E02B157048&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/binhduong2.jpg" tvg-id="75c06e93ebfcee9caefa99a93eb3553b",Bình Dương 2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/326025333?ticket=9857217E8B853F5256405C181C9F49D3E31C91AA&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_binh-duong-3_162952994448.jpg" tvg-id="9f55e6c0c2b868943a4774f19fdabf19",Bình Dương 3
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1088837023?ticket=0B59D79DED88B2151AE0C116706D37CB46E36929&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/binhduong4.png" tvg-id="91e33ac08efd329b76a5af637ced3333",Bình Dương 4
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1077601169?ticket=8FBD134EED6EF3A101C3420B8ACDACB92A2192A7&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_btv9_159662306193.jpg" tvg-id="69111c9e74f9d45444f56c1d1c26cbff",Bình Dương 9
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/505155945?ticket=6272728F083799123D02A778CAB502068F5E387E&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="c8c3f717dae20aac8c6e1786fef523a0",Bình Thuận
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/402113480?ticket=B8020F31D44D93E53B37FFBCB736CA59DE6E9DC5&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="49d9207888f0631644b49b7043dbe2db",Bình Định
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2015418697?ticket=88BB1B8A58BB921EA14ECF1153FEB823B74360A9&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="05541508bec327b670b6c29ddb1f5581",Bắc Giang
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/135615493?ticket=545A399C8F4AD1DDF7DC5C4943329DDA66B5714D&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="04a0a3f66b9581db345aa9444e0f9d95",Bắc Ninh
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1990434820?ticket=61B0ADC6D2FC1369410CB2AA7A6AC4B1BCC92423&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="87c5f4806239c1feefbb1315558a86ff",Cao Bằng
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/16041351?ticket=5B04C7C57090C234ACA192D7319D91585ADBAA80&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cartoon-network_146581299646.png" tvg-id="0c17099d6753103828468643616bac56",Cartoon Network
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/487134988?ticket=A3F2AE93A1382E09567C21ACC86B7D7D382FA9EA&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Channel_V_Logo.svg/1200px-Channel_V_Logo.svg.png" tvg-id="120c8f2abf1230a88412c74b8320a9ad",Channel V (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/714017810?ticket=0122DF5387A5F66902480D0CE3BE88F185033642&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_cinemaworld_165647572623.png" tvg-id="540889667f2c94771ce7bcc4503ca1d4",CinemaWorld (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1720256596?ticket=22E49FA1566635DBF4AC00EAFF0C86FD021F705A&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_max-by-hbo_162970702915.jpg" tvg-id="0f9c460c0f3297421ef09cda7051bc2d",Cinemax (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/205954063?ticket=566A0B3E541F3C9F47FFA76F49E104628CB7997A&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="f9eee5f13d610ab82c1e06e8cffd1fcd",Cà Mau
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1910894329?ticket=103BFE5560EE4D81DFB4CA042D03EB890A641CD7&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="882d20ff0ca1bcd474d12bfa83dad083",Cần Thơ
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2132815240?ticket=A529B7C1340AFF8BC667FC466CB8837A4EB3E74D&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_discovery-asia_152332466749.png" tvg-id="2ec1a1332b120687a8ff91d2d85d23ce",Discovery Asia
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/866238766?ticket=6E8DDCBC6407454725C2CA6683937D2BEAE5E486&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/discoveryhd.jpg" tvg-id="dd9c24feafde17413bf41fcaff9ed3bf",Discovery Channel HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2116328669?ticket=3A4F33156CE8647089F8FF3A5E5B9F8E105667C5&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-1_165647580636.png" tvg-id="7f6cc488b5c205172e604f04c2e9347c",DongNaiTV1 (DN1) (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/147090559?ticket=71D0034E5FFBEB925F2EF515BE40B20A9DE99547&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_dong-nai-2_165647581958.png" tvg-id="ba0dc4e8cd880748175d69c1b6ecdc33",DongNaiTV2 (DN2)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1757679034?ticket=F0B6BD8A918B1376C94015240AC2E0CF58CB8B56&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="194118ecb8917cc434148cdfa22939d6",Gia Lai
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1813528857?ticket=6F50927934904B95BC29DD778C939FF85F45E962&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_hbo_165647605697.png" tvg-id="6287301beb967edb2902271b4e8096d0",HBO (HD)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/456165218?ticket=891886B9ECD0F8A3CCE1CB762F02F0E15B8348FD&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htvkey.jpg" tvg-id="4aa3ff3f0d83af35b3a5669ead8d5259",HTV Key
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1073718090?ticket=3D0B7E06F7745F156EF2C3856B43141E1FEACEC3&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htvthethaohd.jpg" tvg-id="77523dfdc12778ca0da5f69627dfe551",HTV Thể Thao HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2101170807?ticket=3ADAFEBA1F6EEDB331277181720F28FC689948F8&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htv1.jpg" tvg-id="1a58a02b7789a63c2460beee6f3ae266",HTV1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/731928602?ticket=1EF6F3D6D3C5996E516769154D58205AEFD46914&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htv2hd.jpg" tvg-id="f8150140f8e788c244d65c4e2309167e",HTV2 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1073812984?ticket=D5A8EA4B98F3F68DA3BC4BE78F9CDA9D9BA44913&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htv3.png" tvg-id="b154b6682eb7f6aaf185423036b6637e",HTV3
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1756779697?ticket=CFDBB6F17BE7A90FC85472CB8B9B84F1007662F1&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htv7hd.jpg" tvg-id="fa695e531010bc3fb123ef7551fcfc2f",HTV7 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1398696442?ticket=512F65284337C73A0453A67DAE7BEBC9300A2654&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htv9hd.jpg" tvg-id="47de24f7c43cfb95dd4e5ecf207f1250",HTV9 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1998904903?ticket=9F4F6DDE31BB03D0612A21859F243134B3197703&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htvcphimhd.jpg" tvg-id="3ef19f7dbf824fcb0b736120fa811be8",HTVC Phim HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2107633982?ticket=47CEB5E92667425D41451763670328FEC1048808&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/htvcthuanviet.jpg" tvg-id="780ac3933cb2dab3ec561c849ef6afc8",HTVC Thuần Việt
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/331549304?ticket=1F20A3CEB3690D0C5C6CA29B1453AE218C380888&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/hanoi1.jpg" tvg-id="921f9b2bf77734f6a8155542a55ecc6e",Hà Nội 1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/731586450?ticket=39C99C0240CCD6448FF5781AFDA037D3DCF9C859&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/hanoi2.jpg" tvg-id="28cb96967a517d0551759116ee533950",Hà Nội 2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/378981160?ticket=08FE7DAA4B8C12558132823E436FFA68A7E9AA01&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="51f6380b7840c699589742bdde7ce35d",Hà Tĩnh
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/188282449?ticket=85297BE14A36A2E5070E1C8651E5BEAB66E74F3D&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="0a7e7215f6fc3d9bea8b805a89dac1bf",Hòa Bình
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/359824906?ticket=6EBA14E7AAD504CA10A88AD6BD98C89C0FF8E9C3&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/haiphong.jpg" tvg-id="34e7fb6885cb5b7d8279c54d36c55fa2",Hải Phòng
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1761339188?ticket=AD0D6E209AC0DDFD32968512D13D96A33C11BA47&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="b7a380e6d03e8b515b667b6ba43b8ddb",Hậu Giang
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1719706551?ticket=112E41A1BC19E50A6C8CD3F3A06FFB8803DF4337&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="0d5df0cc7f1c83df3f0d8f3cbef5be94",Khánh Hòa
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1290820877?ticket=243949BB4FD2FB735C8171FF3F25F98032E5F7C2&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/kix.png" tvg-id="8dac4151b28d81a93ebb1a6b44d59dca",Kix HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1363258509?ticket=21B9C8165F81C9D74F76BA580242F97DEEA0D4A6&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="84d7525f37e2aad7349dd58d28e88cdd",Kiên Giang
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1599264644?ticket=54803CD80290FCB32CF741A1776C6CD1ACCF3069&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="f12aed435671c268173f103c84a9f807",Kon Tum
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1139616497?ticket=2E890B2E59C733F52A5576790117D80CC7249ACC&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="d5b9dbb5d48718924e994bdedac658f3",Lào Cai
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/903592405?ticket=0ACD122D4082F7A63C38A911F038696E808AE46B&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="990792b5bb260bdac4d9356ce2bce18d",Lâm Đồng
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/898762649?ticket=17D26165E75A16E5DBB76D030C2682A140C3C19F&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="8339c2c28c92a9ef1a1333049dda735f",Lạng Sơn
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1120024963?ticket=5F389C8FADC3E2B26B9BFF8FE17304C2D9B26C8A&profile=pass
+#EXTINF:-1 logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Logo_Nat_Geo_Wild.svg/1200px-Logo_Nat_Geo_Wild.svg.png" tvg-id="be0480c2619ca59a6269d5e8a8b2bc8b",Nat Geo Wild (HD) 
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1115686078?ticket=2F6B17BEE6D7E5A31DB16C33C39D9724DED4E525&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/ngchd.jpg" tvg-id="d6c25ae8c15d4adae46ea675ad6962b3",National Geographic HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1750778582?ticket=D4422E0DF724672C28F389EAA8D0AFC9FDD50555&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="64c75afa04362cd25170894d5fbb7a87",Nghệ An
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2052769636?ticket=E55E0C5379318BD88432817AC07158A39B9878DF&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/nhandan.jpg" tvg-id="c633e779066f51327ed6c88882dbbaf8",Nhân Dân
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2045195206?ticket=CFC3478965E3C1D1655418C47BEDC5C64FCFDFBC&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="8ca3f6374ba5212a47f61f4243fa6ec0",Ninh Bình
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/938910604?ticket=CD8854B52EC5277FA9058FD29CD24E084DC34E2D&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_phu-yen_151298361962.png" tvg-id="a400fd575cf036f53affcfec872cad01",PhuYenTV (PTP)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1476198564?ticket=DEFDF01ED5D3AA8F764C9D17EC70C33C194C99A3&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="cc3e841276b0dc6470db98184416e723",Phú Thọ
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/310656716?ticket=6191687855062A9739261C0540C6BF0F937C177D&profile=pass
+#EXTINF:-1 logo="https://i.imgur.com/dcjQ1eA.jpg" tvg-id="2b55183abf12e5decfeed6061ee34c64",QPVN
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/974673195?ticket=DF4E7B1D741F30EF7495CDB23E56E1DFB9CEDF9C&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="d01f3b44146259f0b72ccd8bf1fe4c00",Quảng Nam
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1144725456?ticket=26F0870D50F7F3CDABD22920F427A9C0C11A9C38&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="fe58aae1c9b7c81a284e7cc82bdbaa26",Quảng Ngãi
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1638553854?ticket=5F59F156438047582057D1B07D362F27C5AB1ED9&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="911feba927a90aa27111b5f904e42f77",Quảng Trị
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/703274897?ticket=3599BA7818599C6958D716BBC0B16259ED037FAD&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/quochoi.jpg" tvg-id="5249ee04f5844246257839b8e2e2c256",Quốc Hội
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/82725202?ticket=55ABE4BAADE6034747F50DACA5BCBAA57190FFEE&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="433f7cd35d2170dde41da6ebd07d749e",Thái Nguyên
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1400651587?ticket=3BAE9470FB2B2C0C19A043F0001F363888601607&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="8920afc47b538120d7ac6159572ee1c9",Tiền Giang
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1152327817?ticket=F245536CF811B08D5C03BA473FF6F5D429790EA1&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="9fe60d3a779b3a37946fab4593ccecca",Trà Vinh
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/973989535?ticket=00AB6C4A2F3F1DAD368205F2D12929DB5B7C88D0&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="f936bc1dce0a01d15497a87c0c8483e2",Tuyên Quang
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/498874105?ticket=02070FB4225609703AF3E14DC100FE9856C7E000&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="fce026ba53074e3b73d011e4340a591a",Tây Ninh
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/975626492?ticket=B7C335213BADCE6E9DF1D2EC89CED10D6D87750D&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-3_165647870254.png" tvg-id="13ccb0bfb36bcee033552d76dadef756",VinhLongTV3 (THVL3) HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1068551187?ticket=844224BF51BE3029F0119C7C00285125B76879D9&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-4-hd_165647871095.png" tvg-id="a763e299b62e457df09112c15738971a",VinhLongTV4 (THVL4) HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/434267047?ticket=9FE4121442C12BFECE36E23243B07605DFF628CC&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc1hd.jpg" tvg-id="3b60a3fbb03b83ca90fff9b84f7fcc42",VTC1 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2074304571?ticket=F14227BC84DFFEDFD243F4B2F2096CD3F4687461&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc10hd.jpg" tvg-id="548624b182525ce97d767f657150e7ea",VTC10
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/824477268?ticket=E9996FA288A922F504BF0F3AB1266AD5BFB72443&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc11-thieu-nhi_146293779839.png" tvg-id="41bf6f124e7d968fca865036b1fa0d83",VTC11
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/309313345?ticket=CFB444C60FC90AA0F10D8C4B2EF2F4178307E4C7&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vtc12_14579482854.jpg" tvg-id="5d053cc1310cf840a353bf9f6c8b536c",VTC12
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1094452573?ticket=B29536D68185147B8D53E5B0F58BE760CB005B27&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc13hd.jpg" tvg-id="a8102fddee340b9f44368f7a2fe8ba73",VTC13 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1563365544?ticket=6F32003C1E17449E27B97BE64411AAFD8621D9DE&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc14hd.jpg" tvg-id="8b30abc3f134313dc3bb2f8a3b87e719",VTC14 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1135292555?ticket=147F122112B818320806AAD7B4DF3E552512DBAB&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc16.jpg" tvg-id="348786c0d933c8ab32f7b90e91fab948",VTC16
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1082558260?ticket=0531D073D9B11A01E758092690B3BADCC8DB13B2&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc2.jpg" tvg-id="da7dc8e2d87c40df23cdc0701b9ebd99",VTC2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1657306586?ticket=0902694A72F415081F8E885E057A7EC80373FBD7&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc3hd.jpg" tvg-id="8de300e21560fb35556c0c1801994b23",VTC3
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1644225421?ticket=92D19923260DA7920E64288D3EC8B30E02BA1223&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc4hd.jpg" tvg-id="7c57299f4e942c0948f6f8572925b9bd",VTC4
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/522803068?ticket=8FACA7A5E0CA0CB7EFE8C47B9782085FCA221356&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc5hd.jpg" tvg-id="ddf4ce95347b023b22fd51beb54c31ee",VTC5 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/365884637?ticket=090A010282D13D0FD1ABAC568D3D02FC57F11141&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc6hd.jpg" tvg-id="238087aface95aa17e9791d50e61b140",VTC6 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/797409315?ticket=D17FF34BC0A8E182604285BD6C7FD4D629DDA5B0&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc7hd.png" tvg-id="0da454588d38a75487108ff54c03886e",VTC7 HD - Today TV
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1481942029?ticket=F2844A24F1CAE6D56C4F0E1C3A0DD957C249A56F&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc8.jpg" tvg-id="90eb1432d136f78df207a5f1306b5296",VTC8
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/840231824?ticket=6C3FD725494C05956171FC2644851C7E1546D0B0&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtc9hd.jpg" tvg-id="d46297927bf969561f51e0f2ee0db682",VTC9 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/311911124?ticket=4BD448B9CD57CA4E871D3A5A725DE88B118BE464&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv1hd.jpg" tvg-id="aefa315091b5e57c48fd78e31dbb22eb",VTV1 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1345452718?ticket=09917CBE5EA23DF81F6F333CDEB100D36BCC9361&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv2hd.jpg" tvg-id="f5da7a5fe920338839ccf7447e86a6ad",VTV2 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1601886965?ticket=E41339AC1CA8D1C94F06C24D82CEA73CC07A7C4D&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv3hd.jpg" tvg-id="b95991814c5a9b63c4c105704b09dc22",VTV3
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/26302905?ticket=28ACC4CC930C9D5D14D3498C98A50D2C40A28B15&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv4hd.jpg" tvg-id="b873accb63df7db9f59ddfcbb8479439",VTV4 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1269593016?ticket=D6EBE5B8E415BCC07B82721CF3893D4F867577D4&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv5hd.jpg" tvg-id="0b78095498e11a097cc885330db023be",VTV5
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1409906699?ticket=EFA54F0C65B52099FC310EDFD0B2A75CD7CBDFCD&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv6hd.jpg" tvg-id="34c7d281e292882afce68c7491e9fe78",VTV6
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/30590772?ticket=0EBAE798CC3A791B53BD0A21B49B9C6EF25FCF98&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv7hd.jpg" tvg-id="535ca72c9290c02896c50b3f90ba06ff",VTV7 HD
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/749165651?ticket=EE902974D66433A77385A63B4FB8486564FA5FD0&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv8hd.jpg" tvg-id="36d6cb3830626e899e5788fcca8b3ea1",VTV8
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/952882742?ticket=7BE2DA2F4EA3871A408E786DB8B4F82F144A897B&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/vtv9hd.jpg" tvg-id="0189249aebbd21afc7384abb2184c1a2",VTV9
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/438601985?ticket=08DE283EEE3B78A11E643D850EC62DD46CE32A2D&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_ba-ria-vung-tau_156455527078.jpg" tvg-id="aa6a497dfa83d92a09431b12836d6d6a",VungTauTV (BRT)
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2101963434?ticket=A8B0A682B190E42CEE04BB8BEAAD16A22967B459&profile=pass
+#EXTINF:-1 logo="https://img.hplus.com.vn/728x409/banner/2019/07/08/442964-THVL-1HD-460x260.png" tvg-id="6feb72c11ee89fe17767255c7f174d2b",Vĩnh Long 1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1098050415?ticket=DF2554A692E2480C9DBF6722147C76A8D79912EA&profile=pass
+#EXTINF:-1 logo="https://static.fptplay.net/static/img/share/channels/icon_channel_vinh-long-2_15645558841.jpg" tvg-id="d40e75fda4e17d75d1fb6e340ecffff8",Vĩnh Long 2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/2104823508?ticket=4745262838404B681CA99BEB4FDB93B98D6BC0C6&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="c27ad70f7b8f39a97e3798565d51f6c8",Điện Biên
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/265779906?ticket=B3C060173452EBB12C13AD7BBCB9E911F37BFFD2&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="abf3613fac7b2ed760e502c025b289d5",Đà Nẵng 1
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/1063383979?ticket=837319AA97FDE86BC7A039BB48D3E02CA43B12E7&profile=pass
+#EXTINF:-1 logo="http://onetv.click/logo/noid.png" tvg-id="05685c8508b05b13ee518cc31add019d",Đà Nẵng 2
+http://t4h:t4hteam@l1pro.hiepchau.com:9981/stream/channelid/89942021?ticket=EE0EA1095C634259A607851D705195E8407FB76D&profile=pass
